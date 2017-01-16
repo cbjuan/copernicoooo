@@ -5,7 +5,7 @@ Visitas a la entrada "Nicolás Copernico" de wikipedia ES después de la Cabalga
 Animado por lo que ha hecho @JJ con su repositorio https://github.com/JJ/Cop-rnico-visitas he reimplementado algo muy parecido usando Python Notebooks (Jupyter) como prueba de concepto para usar la [Wikimedia REST API](https://wikimedia.org/api/rest_v1/), [bokeh](http://bokeh.pydata.org/) y [Jupyter](http://jupyter.org/).
 
 
-Debido a que Github no renderiza actualmente de forma nativa gráficos hechos con Bokeh en un Python Notebook, se recomienda ver el notebook desde la URL http://nbviewer.jupyter.org/github/juan-cb/copernicoooo/blob/114a0df5cb045476edc7b5068b932ac5ab8f58bf/copernicoooo.ipynb
+Debido a que Github no renderiza actualmente de forma nativa gráficos hechos con Bokeh en un Python Notebook, se recomienda ver el notebook desde la URL http://nbviewer.jupyter.org/github/juan-cb/copernicoooo/blob/2c469c6efdf61d7c94a17aba8ea714c76fa1e76d/copernicoooo.ipynb
 
 
 Librerías utilizadas:
